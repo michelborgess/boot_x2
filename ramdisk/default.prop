@@ -15,7 +15,7 @@ debug.atrace.tags.enableflags=0
 #
 # BOOTIMAGE_BUILD_PROPERTIES
 #
-ro.bootimage.build.date=Dom Dez 6 23:41:11 BRST 2015
-ro.bootimage.build.date.utc=1449452471
-ro.bootimage.build.fingerprint=motorola/cm_victara/victara:6.0/MDB08M/0db163b125:userdebug/test-keys
+ro.bootimage.build.date=Fri Mar 4 19:51:13 CET 2016
+ro.bootimage.build.date.utc=1457117473
+ro.bootimage.build.fingerprint=motorola/cm_victara/victara:6.0.1/MMB29U/477d4904f8:userdebug/test-keys
 persist.sys.usb.config=none
